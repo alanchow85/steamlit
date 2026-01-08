@@ -1,0 +1,5 @@
+__pycache__
+venv/
+.airbase
+.env*
+!.env.example
